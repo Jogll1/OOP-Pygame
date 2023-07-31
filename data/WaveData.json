@@ -1,0 +1,144 @@
+{
+    "WaveData": [
+        {
+            "WaveName": "Wave 1",
+            "EnemiesToKill": 10,
+            "EnemyTypes": [
+                "TacoEnemy"
+            ],
+            "EnemyTypesWeights": [
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 2",
+            "EnemiesToKill": 15,
+            "EnemyTypes": [
+                "TacoEnemy"
+            ],
+            "EnemyTypesWeights": [
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 3",
+            "EnemiesToKill": 20,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy"
+            ],
+            "EnemyTypesWeights": [
+                4,
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 4",
+            "EnemiesToKill": 25,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy"
+            ],
+            "EnemyTypesWeights": [
+                3,
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 5",
+            "EnemiesToKill": 30,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy"
+            ],
+            "EnemyTypesWeights": [
+                2,
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 6",
+            "EnemiesToKill": 40,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                3,
+                1,
+                3
+            ]
+        },
+        {
+            "WaveName": "Wave 7",
+            "EnemiesToKill": 45,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                3,
+                1,
+                2
+            ]
+        },
+        {
+            "WaveName": "Wave 8",
+            "EnemiesToKill": 50,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                2,
+                1,
+                2
+            ]
+        },
+        {
+            "WaveName": "Wave 9",
+            "EnemiesToKill": 60,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                3,
+                1,
+                1
+            ]
+        },
+        {
+            "WaveName": "Wave 10",
+            "EnemiesToKill": 75,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "WaveName": "Endless Mode",
+            "EnemiesToKill": 1,
+            "EnemyTypes": [
+                "TacoEnemy",
+                "BurgerEnemy",
+                "ChipsEnemy"
+            ],
+            "EnemyTypesWeights": [
+                1,
+                1,
+                2
+            ]
+        }
+    ]
+}
